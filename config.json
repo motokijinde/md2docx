@@ -1,0 +1,33 @@
+{
+    "fonts": {
+        "normal": {
+            "name": "Segoe UI",
+            "eastAsia": "Meiryo",
+            "size": 10.5,
+            "pdf_name": "JapaneseFont"
+        },
+        "heading": {
+            "name": "Segoe UI",
+            "eastAsia": "Meiryo",
+            "colors": [0, 0, 128],
+            "sizes": [24, 18, 14, 12],
+            "page_break_level": 0
+        },
+        "code": {
+            "docx_name": "MS Gothic",
+            "pdf_name": "JapaneseFont",
+            "size": 9,
+            "colors": [0, 0, 128]
+        },
+        "bold": {
+            "colors": [165, 42, 42]
+        }
+    },
+    "pdf_font_paths": [
+        "/usr/share/fonts/truetype/vlgothic/VL-Gothic-Regular.ttf",
+        "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+        "/usr/share/fonts/opentype/ipafont-gothic/ipag.ttf",
+        "/usr/share/fonts/truetype/takao-gothic/TakaoGothic.ttf",
+        "/usr/share/fonts/truetype/fonts-japanese-gothic.ttf"
+    ]
+}
